@@ -1,0 +1,23 @@
+table {
+  width: 80%;
+}
+
+.add_filter_container{
+  display: flex;
+}
+
+mat-toolbar{
+  background-color: #7151e4;
+}
+
+.checkbox-section{
+  display: flex;
+  flex-direction: column;
+  border: solid;
+  width: 20%;
+  padding: 5px;
+}
+
+.filter-container{
+  display: flex;
+}
